@@ -2,11 +2,11 @@ angular.module('fhirStarter').factory('fhirSettings', function($rootScope, oauth
 
   var servers = [
     {
-      name: 'Local FHIR dev server',
-      serviceUrl: 'http://localhost:9080'
+      name: 'SMART on FHIR (smarthealthit.org)',
+      serviceUrl: 'https://fhir-api.smarthealthit.org'
     }, {
-      name: "SMART on FHIR (smarthealthit.org), no auth",
-      serviceUrl: "https://fhir-open-api.smarthealthit.org"
+      name: 'SMART on FHIR (smarthealthit.org), no auth',
+      serviceUrl: 'https://fhir-open-api.smarthealthit.org'
     }, {
       name: 'Health Intersections Server (Grahame)',
       serviceUrl: 'http://fhir.healthintersections.com.au/open'
@@ -99,7 +99,7 @@ angular.module('fhirStarter').factory('oauth2', function($rootScope, $location) 
             + window.location.hostname 
             + (window.location.port ? ':' + window.location.port: '');
       }
-    
+
       var thisUri = window.location.origin + window.location.pathname +'/';
       thisUrl = thisUri.replace(/\/+$/, "/");
       // TODO : remove registration step
