@@ -30,6 +30,12 @@
       "redirect_uri": "apps/disease-monograph/",
       "logo_uri": "https://fhir.smarthealthit.org/images/apps/dm.png"
     }, {
+      "client_name": "MPR Monitor",
+      "client_id": "mpr_monitor",
+      "launch_uri": "https://mpr-monitor-fhir.smartplatforms.org/fhir-app/launch.html",
+      "redirect_uri": "https://mpr-monitor-fhir.smartplatforms.org/fhir-app/authorize.html",
+      "logo_uri": "https://mpr-monitor-fhir.smartplatforms.org/fhir-app/icon.png"
+    }, {
       "client_name": "FHIR Demo App",
       "client_id": "fhir_demo",
       "launch_uri": "apps/fhir-demo/app/launch.html",
