@@ -42,6 +42,12 @@
       "redirect_uri": "apps/fhir-demo/app/",
       "logo_uri": "https://fhir.smarthealthit.org/images/apps/demo.png"
     }, {
+      "client_name": "Meducation",
+      "client_id": "meducation",
+      "launch_uri": "http://fhir.meducation.com/launch.html",
+      "redirect_uri":"http://fhir.meducation.com/index.html",
+      "logo_uri": "https://apidev.meducation.com/Images/meducationRS_R_logo_200w.png"
+    }, {
       "client_name": "My Web App",
       "client_id": "my_web_app",
       "launch_uri": "http://localhost:8000/fhir-app/launch.html",
