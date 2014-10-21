@@ -51,7 +51,7 @@
       "client_name": "BMJ Content Discovery",
       "client_id": "bmj",
       "launch_uri": "http://54.217.208.118/smart-fhir/launch.html",
-      "redirect_uri":"http://54.217.208.118/smart-fhir/index.html",
+      "redirect_uri":"http://54.217.208.118/smart-fhir/",
       "logo_uri": "https://fhir.smartplatforms.org/images/apps/bmj.png"
     }, {
       "client_name": "My Web App",
