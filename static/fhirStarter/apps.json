@@ -34,7 +34,7 @@
       "client_id": "mpr_monitor",
       "launch_uri": "https://mpr-monitor-fhir.smartplatforms.org/fhir-app/launch.html",
       "redirect_uri": "https://mpr-monitor-fhir.smartplatforms.org/fhir-app/authorize.html",
-      "logo_uri": "https://mpr-monitor-fhir.smartplatforms.org/fhir-app/icon.png"
+      "logo_uri": "https://fhir.smartplatforms.org/images/apps/mpr.png"
     }, {
       "client_name": "FHIR Demo App",
       "client_id": "fhir_demo",
