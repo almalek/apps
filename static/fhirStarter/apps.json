@@ -53,6 +53,12 @@
       "launch_uri": "http://54.217.208.118/smart-fhir/launch.html",
       "redirect_uri":"http://54.217.208.118/smart-fhir/",
       "logo_uri": "https://fhir.smartplatforms.org/images/apps/bmj.png"
+    },  {
+      "client_name": "Health Ally",
+      "client_id": "health_ally",
+      "launch_uri": "https://hspc-portal-conditionplatform-osiamedical.azurewebsites.net/launch.html",
+      "redirect_uri":"https://hspc-portal-conditionplatform-osiamedical.azurewebsites.net/",
+      "logo_uri": "https://fhir.smartplatforms.org/images/apps/ally.png"
     }, {
       "client_name": "My Web App",
       "client_id": "my_web_app",
