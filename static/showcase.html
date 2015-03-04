@@ -4,6 +4,7 @@
 		<title>SMART on FHIR App Showcase</title>
         <link rel="stylesheet" type="text/css" href="stylesheets/showcase.css">
         <script src="js/jquery.js"></script>
+        <script src="js/jQuery.XDomainRequest.js"></script>
     </head>
     <body>
         <div id="non-footer" style="height: 100%">
@@ -66,7 +67,7 @@
             var deferred = $.Deferred();
 
             $.get(
-                fhirServiceUrl + "/Patient/" + patientID,
+                fhirServiceUrl + "/Patient/" + patientID + "?_format=json",
                 function(pt){
                     deferred.resolve(pt.name[0].given[0] +" "+ pt.name[0].family[0]);
                 },
