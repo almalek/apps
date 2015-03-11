@@ -60,6 +60,12 @@
       "redirect_uri":"https://hspc-portal-conditionplatform-osiamedical.azurewebsites.net/",
       "logo_uri": "https://fhir.smartplatforms.org/images/apps/ally.png"
     }, {
+      "client_name": "VisualDx",
+      "client_id": "visualdx",
+      "launch_uri": "http://clupea.visualdx.com/visualdx/widgets/smart/launch.html",
+      "redirect_uri":"http://clupea.visualdx.com/visualdx/widgets/smart/index.html",
+      "logo_uri": "https://fhir.smartplatforms.org/images/apps/visualdx.png"
+    }, {
       "client_name": "My Web App",
       "client_id": "my_web_app",
       "launch_uri": "http://localhost:8000/fhir-app/launch.html",
