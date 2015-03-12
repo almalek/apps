@@ -66,6 +66,12 @@
       "redirect_uri":"http://clupea.visualdx.com/visualdx/widgets/smart/index.html",
       "logo_uri": "https://fhir.smartplatforms.org/images/apps/visualdx.png"
     }, {
+      "client_name": "AppWorks",
+      "client_id": "appworks",
+      "launch_uri": "http://demo.appworkshealth.org/ayf/launch-fhir-smart.html",
+      "redirect_uri":"http://demo.appworkshealth.org/ayf/",
+      "logo_uri": "https://fhir.smartplatforms.org/images/apps/appworks.png"
+    }, {
       "client_name": "My Web App",
       "client_id": "my_web_app",
       "launch_uri": "http://localhost:8000/fhir-app/launch.html",
