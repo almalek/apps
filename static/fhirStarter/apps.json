@@ -6,17 +6,23 @@
       "redirect_uri": "apps/cardiac-risk/",
       "logo_uri": "https://fhir.smarthealthit.org/images/apps/cardio.png"
     }, {
+      "client_name": "BP Centiles",
+      "client_id": "bp_centiles",
+      "launch_uri": "apps/bp-centiles/launch.html",
+      "redirect_uri": "apps/bp-centiles/",
+      "logo_uri": "https://fhir.smartplatforms.org/images/apps/bpc.png"
+    }, {
       "client_name": "Growth Chart",
       "client_id": "growth_chart",
       "launch_uri": "apps/growth-chart/launch.html",
       "redirect_uri": "apps/growth-chart/",
       "logo_uri": "https://fhir.smarthealthit.org/images/apps/pgc.png"
     }, {
-      "client_name": "BP Centiles",
-      "client_id": "bp_centiles",
-      "launch_uri": "apps/bp-centiles/launch.html",
-      "redirect_uri": "apps/bp-centiles/",
-      "logo_uri": "https://fhir.smarthealthit.org/images/apps/bpc.png"
+      "client_name": "MPR Monitor",
+      "client_id": "mpr_monitor",
+      "launch_uri": "https://mpr-monitor-fhir.smartplatforms.org/fhir-app/launch.html",
+      "redirect_uri": "https://mpr-monitor-fhir.smartplatforms.org/fhir-app/authorize.html",
+      "logo_uri": "https://fhir.smartplatforms.org/images/apps/mpr.png"
     }, {
       "client_name": "Diabetes Monograph",
       "client_id": "diabetes_monograph",
@@ -29,18 +35,6 @@
       "launch_uri": "apps/disease-monograph/launch.html",
       "redirect_uri": "apps/disease-monograph/",
       "logo_uri": "https://fhir.smarthealthit.org/images/apps/dm.png"
-    }, {
-      "client_name": "MPR Monitor",
-      "client_id": "mpr_monitor",
-      "launch_uri": "https://mpr-monitor-fhir.smartplatforms.org/fhir-app/launch.html",
-      "redirect_uri": "https://mpr-monitor-fhir.smartplatforms.org/fhir-app/authorize.html",
-      "logo_uri": "https://fhir.smartplatforms.org/images/apps/mpr.png"
-    }, {
-      "client_name": "FHIR Demo App",
-      "client_id": "fhir_demo",
-      "launch_uri": "apps/fhir-demo/app/launch.html",
-      "redirect_uri": "apps/fhir-demo/app/",
-      "logo_uri": "https://fhir.smarthealthit.org/images/apps/demo.png"
     }, {
       "client_name": "Meducation",
       "client_id": "meducation",
@@ -71,6 +65,12 @@
       "launch_uri": "http://demo.appworkshealth.org/ayf/launch-fhir-smart.html",
       "redirect_uri":"http://demo.appworkshealth.org/ayf/",
       "logo_uri": "https://fhir.smartplatforms.org/images/apps/appworks.png"
+    }, {
+      "client_name": "FHIR Demo App",
+      "client_id": "fhir_demo",
+      "launch_uri": "apps/fhir-demo/app/launch.html",
+      "redirect_uri": "apps/fhir-demo/app/",
+      "logo_uri": "https://fhir.smartplatforms.org/images/apps/demo.png"
     }, {
       "client_name": "My Web App",
       "client_id": "my_web_app",
