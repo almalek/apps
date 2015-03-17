@@ -66,6 +66,12 @@
       "redirect_uri":"http://demo.appworkshealth.org/ayf/",
       "logo_uri": "https://fhir.smartplatforms.org/images/apps/appworks.png"
     }, {
+      "client_name": "Surescripts Med Adherence",
+      "client_id": "surescripts",
+      "launch_uri": "http://mmpoc-demo.surescripts.net/app/smart/launch.html",
+      "redirect_uri":"http://mmpoc-demo.surescripts.net/app/smart/app.html",
+      "logo_uri": "https://fhir.smartplatforms.org/images/apps/surescripts.png"
+    }, {
       "client_name": "FHIR Demo App",
       "client_id": "fhir_demo",
       "launch_uri": "apps/fhir-demo/app/launch.html",
