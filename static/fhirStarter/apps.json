@@ -20,8 +20,8 @@
     }, {
       "client_name": "MPR Monitor",
       "client_id": "mpr_monitor",
-      "launch_uri": "https://mpr-monitor-fhir.smarthealthit.org/fhir-app/launch.html",
-      "redirect_uri": "https://mpr-monitor-fhir.smarthealthit.org/fhir-app/authorize.html",
+      "launch_uri": "https://mpr-monitor.smarthealthit.org/fhir-app/launch.html",
+      "redirect_uri": "https://mpr-monitor.smarthealthit.org/fhir-app/authorize.html",
       "logo_uri": "https://fhir.smarthealthit.org/images/apps/mpr.png"
     }, {
       "client_name": "Diabetes Monograph",
