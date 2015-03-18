@@ -36,7 +36,7 @@ MANAGERS = ADMINS
 #SMART on FHIR Server Endpoint
 ENDPOINT = {
     'app_id': 'mpr_monitor',
-    'app_base': 'https://mpr-monitor-fhir.smartplatforms.org/fhir-app/'
+    'app_base': 'https://mpr-monitor.smarthealthit.org/fhir-app/'
 }
 
 # Used to assign relative paths
