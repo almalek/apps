@@ -72,6 +72,12 @@
       "redirect_uri":"http://mmpoc-demo.surescripts.net/app/smart/app.html",
       "logo_uri": "https://fhir.smarthealthit.org/images/apps/surescripts.png"
     }, {
+      "client_name": "TimeView",
+      "client_id": "timeview",
+      "launch_uri": "https://timeviewfhir.meducation.com/launch.html",
+      "redirect_uri":"https://timeviewfhir.meducation.com/index.html",
+      "logo_uri": "https://fhir.smarthealthit.org/images/apps/timeview.png"
+    }, {
       "client_name": "FHIR Demo App",
       "client_id": "fhir_demo",
       "launch_uri": "apps/fhir-demo/app/launch.html",
