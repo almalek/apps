@@ -36,11 +36,17 @@
       "redirect_uri": "apps/disease-monograph/",
       "logo_uri": "https://fhir.smarthealthit.org/images/apps/dm.png"
     }, {
-      "client_name": "Meducation",
+      "client_name": "Meducation RS",
       "client_id": "meducation",
       "launch_uri": "http://fhir.meducation.com/launch.html",
       "redirect_uri":"http://fhir.meducation.com/index.html",
       "logo_uri": "https://fhir.smarthealthit.org/images/apps/meducation.png"
+    }, {
+      "client_name": "Meducation TimeView",
+      "client_id": "timeview",
+      "launch_uri": "https://timeviewfhir.meducation.com/launch.html",
+      "redirect_uri":"https://timeviewfhir.meducation.com/index.html",
+      "logo_uri": "https://fhir.smarthealthit.org/images/apps/timeview.png"
     }, {
       "client_name": "BMJ Content Discovery",
       "client_id": "bmj",
@@ -71,12 +77,6 @@
       "launch_uri": "http://mmpoc-demo.surescripts.net/app/smart/launch.html",
       "redirect_uri":"http://mmpoc-demo.surescripts.net/app/smart/app.html",
       "logo_uri": "https://fhir.smarthealthit.org/images/apps/surescripts.png"
-    }, {
-      "client_name": "TimeView",
-      "client_id": "timeview",
-      "launch_uri": "https://timeviewfhir.meducation.com/launch.html",
-      "redirect_uri":"https://timeviewfhir.meducation.com/index.html",
-      "logo_uri": "https://fhir.smarthealthit.org/images/apps/timeview.png"
     }, {
       "client_name": "FHIR Demo App",
       "client_id": "fhir_demo",
