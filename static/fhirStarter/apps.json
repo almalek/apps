@@ -78,6 +78,12 @@
       "redirect_uri":"http://mmpoc-demo.surescripts.net/app/smart/app.html",
       "logo_uri": "https://fhir.smarthealthit.org/images/apps/surescripts.png"
     }, {
+      "client_name": "PillBox",
+      "client_id": "pillbox",
+      "launch_uri": "http://pillbox.medapptech.com/initapp/launch.html",
+      "redirect_uri":"http://pillbox.medapptech.com/initapp/",
+      "logo_uri": "https://fhir.smarthealthit.org/images/apps/pillbox.png"
+    }, {
       "client_name": "FHIR Demo App",
       "client_id": "fhir_demo",
       "launch_uri": "apps/fhir-demo/app/launch.html",
