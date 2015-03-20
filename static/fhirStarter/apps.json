@@ -84,6 +84,12 @@
       "redirect_uri":"http://pillbox.medapptech.com/initapp/",
       "logo_uri": "https://fhir.smarthealthit.org/images/apps/pillbox.png"
     }, {
+      "client_name": "Bilirubin Chart",
+      "client_id": "bilirubin_chart",
+      "launch_uri": "https://hspc.isalusconsulting.com/demo/apps/bilirubin-chart/launch.html",
+      "redirect_uri":"https://hspc.isalusconsulting.com/demo/apps/bilirubin-chart/",
+      "logo_uri": "https://fhir.smarthealthit.org/images/apps/bilirubin.png"
+    }, {
       "client_name": "FHIR Demo App",
       "client_id": "fhir_demo",
       "launch_uri": "apps/fhir-demo/app/launch.html",
