@@ -38,8 +38,8 @@
     }, {
       "client_name": "Meducation RS",
       "client_id": "meducation",
-      "launch_uri": "http://fhir.meducation.com/launch.html",
-      "redirect_uri":"http://fhir.meducation.com/index.html",
+      "launch_uri": "https://fhir.meducation.com/launch.html",
+      "redirect_uri":"https://fhir.meducation.com/index.html",
       "logo_uri": "https://fhir.smarthealthit.org/images/apps/meducation.png"
     }, {
       "client_name": "Meducation TimeView",
