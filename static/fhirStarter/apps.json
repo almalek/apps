@@ -96,6 +96,12 @@
       "redirect_uri":"https://clindat-smart.medapptech.com/api/fhir-app/authorize.html",
       "logo_uri": "https://fhir.smarthealthit.org/images/apps/clindat.png"
     }, {
+      "client_name": "Crimson Care Management",
+      "client_id": "92841086-0808-4174-9bc4-ca64e03e3ffd",
+      "launch_uri": "https://fhirdemo.advisory.com/launcher/launch.html",
+      "redirect_uri":"https://fhirdemo.advisory.com/launcher",
+      "logo_uri": "https://fhir.smarthealthit.org/images/apps/ccm.png"
+    }, {
       "client_name": "FHIR Demo App",
       "client_id": "fhir_demo",
       "launch_uri": "apps/fhir-demo/app/launch.html",
