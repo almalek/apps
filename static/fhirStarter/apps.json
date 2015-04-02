@@ -90,6 +90,12 @@
       "redirect_uri":"https://hspc.isalusconsulting.com/demo/apps/bilirubin-chart/",
       "logo_uri": "https://fhir.smarthealthit.org/images/apps/bilirubin.png"
     }, {
+      "client_name": "ClinDat",
+      "client_id": "53bc3fbc-61d7-480b-84e4-a0713d4a51eb",
+      "launch_uri": "https://clindat-smart.medapptech.com/api/fhir-app/launch.html",
+      "redirect_uri":"https://clindat-smart.medapptech.com/api/fhir-app/authorize.html",
+      "logo_uri": "https://fhir.smarthealthit.org/images/apps/clindat.png"
+    }, {
       "client_name": "FHIR Demo App",
       "client_id": "fhir_demo",
       "launch_uri": "apps/fhir-demo/app/launch.html",
