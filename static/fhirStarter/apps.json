@@ -102,6 +102,12 @@
       "redirect_uri":"https://fhirdemo.advisory.com/launcher",
       "logo_uri": "https://fhir.smarthealthit.org/images/apps/ccm.png"
     }, {
+      "client_name": "EnrG | Rheum",
+      "client_id": "029ed683-770a-4601-949e-da39b524ac28",
+      "launch_uri": "https://xgapps.xghealth.com/SPoAuthTest/fhir-app/launch.html",
+      "redirect_uri":"https://xgapps.xghealth.com/SPoAuthTest/fhir-app/",
+      "logo_uri": "https://fhir.smarthealthit.org/images/apps/enrg-rheum.png"
+    }, {
       "client_name": "FHIR Demo App",
       "client_id": "fhir_demo",
       "launch_uri": "apps/fhir-demo/app/launch.html",
