@@ -60,7 +60,7 @@
       "redirect_uri":"https://hspc-portal-conditionplatform-osiamedical.azurewebsites.net/",
       "logo_uri": "https://fhir.smarthealthit.org/images/apps/ally.png"
     }, {
-      "client_name": "VisualDx",
+      "client_name": "VisualDx Diagnostic CDS",
       "client_id": "visualdx",
       "launch_uri": "http://clupea.visualdx.com/visualdx/widgets/smart/launch.html",
       "redirect_uri":"http://clupea.visualdx.com/visualdx/widgets/smart/index.html",
