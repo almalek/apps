@@ -108,6 +108,12 @@
       "redirect_uri":"https://xgapps.xghealth.com/SPoAuthTest/fhir-app/",
       "logo_uri": "https://fhir.smarthealthit.org/images/apps/enrg-rheum.png"
     }, {
+      "client_name": "Healthwise",
+      "client_id": "healthwise",
+      "launch_uri": "https://smart.healthwise.net/initialize",
+      "redirect_uri":"https://smart.healthwise.net/callback",
+      "logo_uri": "https://fhir.smarthealthit.org/images/apps/healthwise.png"
+    }, {
       "client_name": "FHIR Demo App",
       "client_id": "fhir_demo",
       "launch_uri": "apps/fhir-demo/app/launch.html",
